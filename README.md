@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 USF graduate with a BS in Information Technology (CS & Engineering)<br>📜 AWS Certified: Cloud Practitioner (CLF-C02) | Solutions Architect – Associate (SAA-C03)<br>☁️ Hands-on experience across cloud infrastructure, systems, networking, and security fundamentals<br>🔐 Building and documenting projects focused on cloud platforms, system design, and security 
+🎓 USF graduate with a BS in Information Technology (CS & Engineering)<br>📜 Certifications: CompTIA Security+ | AWS Solutions Architect – Associate | AWS Certified Cloud Practitioner<br>☁️ Hands-on experience across cloud infrastructure, systems, networking, and security fundamentals<br>🔐 Building and documenting projects focused on cloud platforms, system design, and security 
 
 
 # 💻 Tech Stack:
